@@ -1,8 +1,9 @@
-# Goals
 
-1. Google classroom setup
-2. Join the R cloud computing platform [Posit](https://posit.cloud).
-3. Setup AI assistant: [ChatGPT](https://chatgpt.com/).
+- [Google classroom](#google-classroom)
+- [R on the cloud POSIT](#r-on-the-cloud-posit)
+- [Create a project in POSIT](#create-a-project-in-posit)
+- [AI assistant](#ai-assistant)
+- [Google classroom tour](#google-classroom-tour)
 
 ## Google classroom
 
