@@ -4,13 +4,14 @@
 - [Create a project in POSIT](#create-a-project-in-posit)
 - [AI assistant](#ai-assistant)
 - [Google classroom tour](#google-classroom-tour)
+  - [https://classroom.google.com](#httpsclassroomgooglecom)
 
 ## Google classroom
 
 We will use Google classroom to manage the course materials and assignments. 
 
-- Join the classroom
-<img src="../img/classroom-invitation-link.png" width="400px">
+- Join the classroom. Scan or click the QR code:
+[<img src="../img/classroom-invitation-link.png" width="400px">](https://classroom.google.com/c/NzUwNTk0NzkzOTc4?cjc=xkvjy5f)
 
 - complete [Google classroom student ID form](https://docs.google.com/forms/d/e/1FAIpQLScDiEZzT8M2jeRysePz--OB-EomTHTeTNnLtwfqyqj_JHEJWg/viewform?usp=dialog)
 
@@ -43,6 +44,9 @@ Sign up for a free account on POSIT.
 We mainly use ChatGPT as our AI assistant.
 
 ## Google classroom tour
+
+### https://classroom.google.com
+
 
   - Resources  
   - Course information
