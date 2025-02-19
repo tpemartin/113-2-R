@@ -1,19 +1,24 @@
 
 - [Google classroom](#google-classroom)
+  - [https://classroom.google.com](#httpsclassroomgooglecom)
 - [R on the cloud POSIT](#r-on-the-cloud-posit)
 - [Create a project in POSIT](#create-a-project-in-posit)
 - [AI assistant](#ai-assistant)
 - [Google classroom tour](#google-classroom-tour)
-  - [https://classroom.google.com](#httpsclassroomgooglecom)
+  - [https://classroom.google.com](#httpsclassroomgooglecom-1)
 
 ## Google classroom
 
+### https://classroom.google.com
+
 We will use Google classroom to manage the course materials and assignments. 
 
-- Join the classroom. Scan or click the QR code:
+ 1.  Join the classroom. Scan or click the QR code:
 [<img src="../img/classroom-invitation-link.png" width="400px">](https://classroom.google.com/c/NzUwNTk0NzkzOTc4?cjc=xkvjy5f)
 
-- complete [Google classroom student ID form](https://docs.google.com/forms/d/e/1FAIpQLScDiEZzT8M2jeRysePz--OB-EomTHTeTNnLtwfqyqj_JHEJWg/viewform?usp=dialog)
+> You can also join the classroom by the class code: `xkvjy5f`
+
+ 2. complete [Google classroom student ID form](https://docs.google.com/forms/d/e/1FAIpQLScDiEZzT8M2jeRysePz--OB-EomTHTeTNnLtwfqyqj_JHEJWg/viewform?usp=dialog)
 
 ## R on the cloud POSIT
 
@@ -36,8 +41,11 @@ Sign up for a free account on POSIT.
 
 ![](../img/2024-09-14-09-31-09.png)
 
-> Once the project is created, you can continue to use it. No need to create another project to run R next time.
+> Once the project is created, you can continue to use it. No need to create another project each time in the class.
 
+> (Optional) You can also install R and RStudio on your own computer by the following instruction:
+>
+>   - Install RStudio from <https://www.rstudio.com/products/rstudio/download/>
 
 ## AI assistant
 
