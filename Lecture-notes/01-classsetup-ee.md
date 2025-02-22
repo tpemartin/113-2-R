@@ -16,7 +16,7 @@ We will use Google classroom to manage the course materials and assignments.
  1.  Join the classroom. Scan or click the QR code:
 [<img src="../img/113-2-R-EE-QR.png" width="400px">](https://classroom.google.com/c/NzU0NDI5MDA4NTc3?cjc=4iso7lb)
 
-> You can also join the classroom by the class code: `xkvjy5f`
+> You can also join the classroom by the class code: `4iso7lb`
 
  2. complete [Google classroom student ID form](https://docs.google.com/forms/d/e/1FAIpQLScnGNSn-wCo5GHQ9fpT170liYYv0-XdCvl9b0lPh2TntiV0hg/viewform?usp=sharing)
 
