@@ -9,49 +9,33 @@
   - RAM: Environment
   - Hard drive: Files
 
+POSIT buttons:
+
+  - ![](../img/2025-02-26-14-13-43.png): clean the space (in many panels) 
+  - ![](../img/2025-02-26-14-57-44.png): create new file (mainly in Script editor)
+  - ![](../img/2025-02-26-14-14-35.png): save file (in many panels) 
+  - ![](../img/2025-02-26-14-26-54.png): upload file (only in file panel of Hard drive)
+  - ![](../img/2025-02-26-14-16-37.png): back to **project root directory** (only in file panel of Hard drive)
+  
+  - Download: to download files in the file panel: **Check** the file and click Export under More button.
+
+<img src="../img/2025-02-26-14-54-36.png" alt="Download files in the file panel" width="300px">
+
+### Import data
+
+
+  - [Number of Aboriginal students and graduates in colleges and universities—by grade and school of 112th Academic Year](https://data.gov.tw/dataset/33514): currently in Chinese. This dataset contains information on the number of Aboriginal students and graduates in colleges and universities in Taiwan.
+  
+  Download one CSV and upload to POSIT.
+
 ## AIs
 
-  - ChatGPT  
-  - Github Copilot
+  - [ChatGPT](https://chatgpt.com): General purpose AI  
+  - [Github](https://github.com) Copilot: Programming AI
 
-## Import data
+> Github copilot exists everywhere in Github as a botton  ![](../img/2025-02-26-14-10-33.png).
+> You need to register a Github account to use it.
 
-If your data is in your hard drive, you need to import it to the RAM so that the CPU can work on it.
+### Upload data and ask AIs
 
-# AI preset
-
-For AI to assist you the best, try to provide as much information as possible regarding your computer programming environment. 
-
-> You are using RStudio to conduct R programming tasks in POSIT remote server with preloaded tidyverse package. If the task is programming related, the programming style should follow tidyverse style as closely as possible, i.e. if a certain task can be done in both base R and tidyverse, use tidyverse.
-
-## Exercise
-
-Try to download a `.csv` file from [Taiwan open data](https://data.gov.tw/) and import it to RStudio. Ask AI to help you.
-
-# POSIT-R-AI
-
-![](../img/POSIT-R-AI.png)
-
-```mermaid
-graph TD
-    B["""`User: Upload data file to 
-    POSIT hard drive`"""]
-    B --> C0["""`?AI: how to import CSV file<br> in R language?`"""]
-    B --> C["""`POSIT: Import to CSV 
-    (to RAM)`"""]
-    C0 --> C
-    C --> D0["""`?AI: How to ... to the data<br> in R language?`"""]
-    C --> D["""`POSIT: Do something to 
-    the (RAM) data`"""]
-    D0 --> D
-    D --> E0["""`?AI: How to do ... 
-    to something in RAM 
-     in R language?`"""]
-    D --> E["""`POSIT: Do something to
-    the data in RAM`"""]
-    E0 --> E
-    E --> F0["""`:
-    :`"""]
-
-    style F0 fill:transparent,stroke:none;
-```
+Upload above data to ChatGPT and ask it to explain the data.
