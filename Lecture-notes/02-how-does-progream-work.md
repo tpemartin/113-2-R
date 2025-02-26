@@ -48,25 +48,6 @@ Two cloud services that we will use in this course are:
 
 ## Interaction between User and Cloud
 
-<div style="display:none">
-
-graph TD
-  A["`(User) 
-  local computer
-  to interact with POSIT/AI`"]
-  A --> B["`(POSIT) Upload data file to 
-  POSIT for analysis`"]
-  A --> C["`(AI) Ask AI to help with R 
-  programming tasks and 
-  input the code to POSIT`"]
-  C --> E["`(AI) 
-  Provides R program`"]
-  E -->|copy program| A
-  A -->|paste program| B
-
-</div>
-
-
 <img src="../img/interactions.png" width="600px">
 
 
