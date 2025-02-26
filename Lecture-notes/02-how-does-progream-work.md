@@ -49,7 +49,7 @@ Two cloud services that we will use in this course are:
 ## Interaction between User and Cloud
 
 <div style="display:none">
-```mermaid
+
 graph TD
   A["`(User) 
   local computer
@@ -63,7 +63,7 @@ graph TD
   Provides R program`"]
   E -->|copy program| A
   A -->|paste program| B
-```
+
 </div>
 
 
