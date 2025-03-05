@@ -12,8 +12,6 @@ Download the [Number of Aboriginal students and graduates in colleges and univer
   - What's your background?  
   - Any requirement for AI to answer your question?
 
-
-
 ```mermaid
 flowchart TD
     A["`Import data`"] --> B["`Decide variable class`"]
