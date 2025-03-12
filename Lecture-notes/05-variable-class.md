@@ -54,3 +54,10 @@ How would you write your prompt?
 
   - A file to keep variable information regarding your data.
 
+## Practice
+
+Download [Student Performance and & Behaviour Dataset](https://www.kaggle.com/datasets/mahmoudelhemaly/students-grading-dataset?resource=download) from Kaggle. Generate its codebook markdown table. 
+
+[<img src="../img/2025-03-12-10-29-54.png" width="500px">](https://www.kaggle.com/datasets/mahmoudelhemaly/students-grading-dataset?resource=download)
+
+> [slido](https://app.sli.do/event/1KeoJrzkSPB3pLmmjmPFhd): Paste the markdown table of codebook regarding "Student Performance & Behaviour Dataset"
