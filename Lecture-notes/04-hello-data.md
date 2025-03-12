@@ -14,11 +14,12 @@ Download the [Number of Aboriginal students and graduates in colleges and univer
 
 ```mermaid
 flowchart TD
-    A["`Import data`"] --> B["`Decide variable class`"]
-    B --> C["`Parse variable values`"]
-    C --> D["`Summarize data`"]
+  A["`Import data`"]:::pink --> B["`Decide variable class`"]
+  B --> C["`Parse variable values`"]
+  C --> D["`Summarize data`"]
+
+  classDef pink fill:#ffcccc;
 ```
-  
 ## Import data
 
 ![](../img/2025-03-05-08-56-39.png)
