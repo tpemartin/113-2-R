@@ -18,8 +18,8 @@ Dataset:
 
 ## Import data
 
+<img src="../img/2025-03-19-10-18-09.png" width="500px" />
 
-![](../img/2025-03-19-10-18-09.png)
 
 ## Parsing based on codebook
 
