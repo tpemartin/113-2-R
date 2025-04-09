@@ -9,34 +9,44 @@ flowchart TD
   classDef pink fill:#ffcccc;
 ```
 
+## Meta prompt and context
+
+  - Meta prompt: AI persona  
+  - Context: General knowledge about the task
+
+> slido: Use Student Performance Dataset to setup meta prompt and its variable context. Share your ChatGPT link
+
 ## Common summary practice
 
 It depends on the class of variables. The following table is a suggestion for what to summarise for each class of variables.
 
 | Class | Summary |
 | --- | --- |
-| Numeric | Mean, median, min, max, quartiles, missing values |
-| Character | Unique values, missing values |
-| Date/DateTime | Earliest date/date time, latest date/date time, missing values |
-| Factor | Levels, frequency table, missing values |
+| Numeric | Mean, median, min, max, range, standard deviation, missing value count |
+| Character | Unique values, missing value count |
+| Date/DateTime | Earliest date/date time, latest date/date time, missing value count |
+| Factor | Levels, frequency table, missing value count |
 
 > Missing values are important to check because they can affect the analysis results.
 
-## Save the summary
+## Design a summary prompt
 
-  - Upload to Google Sheets. 
+Predicate:
 
-Install the `googlesheets4` package. And use the `write_sheet()` function to upload the summary data frame to Google Sheets.
+  - instruction: What is the task? 
+  - context: When solving the task what information is needed?
+  - input of data: When solving the task what data is needed? 
+  - output: After the task is done, what is the output?
 
-```R
-library(googlesheets4)
-write_sheet(a_data_frame, "sheet_link", sheet = "sheet name")
-```
+*** 
 
-| First time authorization | copy Oauth code | paste Oauth code |
-| --- | --- | --- |
-| <img src="../img/2025-03-26-14-56-25.png" width="300px" /> | <img src="../img/2025-03-26-14-57-17.png" width="300px" /> | <img src="../img/2025-03-26-14-57-51.png" width="350px" /> |
+Example:  
 
-Next time `write_sheet()` function will not ask for authorization fully, but:
+  - instruction: summarise each variable in a given data frame.  
+  - context: What to summarise for each variable should depends on its class. (Could use the previous table as a rule).  
+  - input of data: a data frame named ... .
+  - output: a **list** of summaries for each variable in the data frame. 
 
-<img src="../img/2025-03-26-15-01-54.png" width="350px"/>
+> **list** is a special object in R that has the most flexible structure to store any information.
+
+> slido: Share you single variable summary code for Student Performance Dataset.
