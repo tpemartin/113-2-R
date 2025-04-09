@@ -39,4 +39,4 @@ write_sheet(a_data_frame, "sheet_link", sheet = "sheet name")
 
 Next time `write_sheet()` function will not ask for authorization fully, but:
 
-<img src="../img/2025-03-26-15-01-54.png" width="250px"/>
+<img src="../img/2025-03-26-15-01-54.png" width="350px"/>
