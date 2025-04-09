@@ -26,7 +26,7 @@ It depends on the class of variables. The following table is a suggestion for wh
 
   - Upload to Google Sheets. 
 
-Install the `googlesheets4` package. And use the `write_sheet()` function to upload the `.Rds` file to Google Sheets.
+Install the `googlesheets4` package. And use the `write_sheet()` function to upload the summary data frame to Google Sheets.
 
 ```R
 library(googlesheets4)
