@@ -29,6 +29,7 @@ It depends on the class of variables. The following table is a suggestion for wh
 
 > Missing values are important to check because they can affect the analysis results.
 
+
 ## Design a summary prompt
 
 Predicate:
@@ -36,7 +37,7 @@ Predicate:
   - instruction: What is the task? 
   - context: When solving the task what information is needed?
   - input of data: When solving the task what data is needed? 
-  - output: After the task is done, what is the output?
+  - output: After the task is done, what is the output format?
 
 *** 
 
@@ -45,8 +46,8 @@ Example:
   - instruction: summarise each variable in a given data frame.  
   - context: What to summarise for each variable should depends on its class. (Could use the previous table as a rule).  
   - input of data: a data frame named ... .
-  - output: a **list** of summaries for each variable in the data frame. 
+  - output: the result should be saved as a JSON file named "{summary-title}.json". The stored JSON object must include "description" of the summary task and "summary" for its summary result.
 
-> **list** is a special object in R that has the most flexible structure to store any information.
+## JSON
 
-> slido: Share you single variable summary code for Student Performance Dataset.
+  - [what is JSON?](https://www.w3schools.com/js/js_json.asp)
