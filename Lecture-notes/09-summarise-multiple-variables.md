@@ -1,5 +1,6 @@
 # Summaries Multiple Variables
 
+Through codebook, we have a basic understanding our data. 
 
 ## Save the summary
 

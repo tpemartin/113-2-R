@@ -1,0 +1,175 @@
+{
+  "description": "Summary of each variable in `native` based on its class, including missing value statistics.",
+  "operations": "purrr::map(), class(), min(), max(), mean(), median(), sd(), table(), is.na(), n_distinct()",
+  "summary": {
+    "academic_year": {
+      "class": "integer",
+      "min": 112,
+      "max": 112,
+      "mean": 112,
+      "median": 112,
+      "sd": 0,
+      "n_missing": 0,
+      "n_nonmissing": 158,
+      "n_unique": 1
+    },
+    "school_type": {
+      "class": "factor",
+      "levels": ["Higher Education Institutions", "Open University and Continuing Education Schools", "Theological Seminaries"],
+      "n_levels": 3,
+      "level_counts": {
+        "Higher Education Institutions": 148,
+        "Open University and Continuing Education Schools": 5,
+        "Theological Seminaries": 5
+      },
+      "n_missing": 0,
+      "n_nonmissing": 158,
+      "n_unique": 3
+    },
+    "school_code": {
+      "class": "character",
+      "sample_values": ["0001", "0002", "0003", "0004", "0005"],
+      "n_missing": 0,
+      "n_nonmissing": 158,
+      "n_unique": 158
+    },
+    "school_name": {
+      "class": "character",
+      "sample_values": ["National Chengchi University", "National Tsing Hua University", "National Taiwan University", "National Taiwan Normal University", "National Cheng Kung University"],
+      "n_missing": 0,
+      "n_nonmissing": 158,
+      "n_unique": 155
+    },
+    "enrollment_phd": {
+      "class": "integer",
+      "min": 0,
+      "max": 31,
+      "mean": 1.4557,
+      "median": 0,
+      "sd": 3.6722,
+      "n_missing": 0,
+      "n_nonmissing": 158,
+      "n_unique": 13
+    },
+    "enrollment_master": {
+      "class": "integer",
+      "min": 0,
+      "max": 222,
+      "mean": 15.6519,
+      "median": 5,
+      "sd": 28.6031,
+      "n_missing": 0,
+      "n_nonmissing": 158,
+      "n_unique": 46
+    },
+    "enrollment_bachelor": {
+      "class": "integer",
+      "min": 0,
+      "max": 790,
+      "mean": 125.2595,
+      "median": 93.5,
+      "sd": 128.4606,
+      "n_missing": 0,
+      "n_nonmissing": 158,
+      "n_unique": 108
+    },
+    "enrollment_junior_college": {
+      "class": "integer",
+      "min": 0,
+      "max": 317,
+      "mean": 4.3038,
+      "median": 0,
+      "sd": 25.9766,
+      "n_missing": 0,
+      "n_nonmissing": 158,
+      "n_unique": 21
+    },
+    "enrollment_five_year_college": {
+      "class": "integer",
+      "min": 0,
+      "max": 655,
+      "mean": 23.1392,
+      "median": 0,
+      "sd": 81.0304,
+      "n_missing": 0,
+      "n_nonmissing": 158,
+      "n_unique": 35
+    },
+    "graduates_last_year_phd": {
+      "class": "integer",
+      "min": 0,
+      "max": 2,
+      "mean": 0.1203,
+      "median": 0,
+      "sd": 0.3968,
+      "n_missing": 0,
+      "n_nonmissing": 158,
+      "n_unique": 3
+    },
+    "graduates_last_year_master": {
+      "class": "integer",
+      "min": 0,
+      "max": 27,
+      "mean": 2.7785,
+      "median": 1,
+      "sd": 4.5952,
+      "n_missing": 0,
+      "n_nonmissing": 158,
+      "n_unique": 19
+    },
+    "graduates_last_year_bachelor": {
+      "class": "integer",
+      "min": 0,
+      "max": 162,
+      "mean": 24.8481,
+      "median": 19,
+      "sd": 26.2669,
+      "n_missing": 0,
+      "n_nonmissing": 158,
+      "n_unique": 60
+    },
+    "graduates_last_year_junior_college": {
+      "class": "integer",
+      "min": 0,
+      "max": 83,
+      "mean": 1.6392,
+      "median": 0,
+      "sd": 7.5925,
+      "n_missing": 0,
+      "n_nonmissing": 158,
+      "n_unique": 15
+    },
+    "graduates_last_year_five_year_college": {
+      "class": "integer",
+      "min": 0,
+      "max": 87,
+      "mean": 3.1203,
+      "median": 0,
+      "sd": 11.4727,
+      "n_missing": 0,
+      "n_nonmissing": 158,
+      "n_unique": 17
+    },
+    "school_name_chinese": {
+      "class": "character",
+      "sample_values": ["國立政治大學", "國立清華大學", "國立臺灣大學", "國立臺灣師範大學", "國立成功大學"],
+      "n_missing": 0,
+      "n_nonmissing": 158,
+      "n_unique": 158
+    },
+    "school_type_chinese": {
+      "class": "factor",
+      "levels": ["大專校院", "開放大學及進修學院", "神學院"],
+      "n_levels": 3,
+      "level_counts": {
+        "大專校院": 148,
+        "開放大學及進修學院": 0,
+        "神學院": 0,
+        "4": 10
+      },
+      "n_missing": 10,
+      "n_nonmissing": 148,
+      "n_unique": 1
+    }
+  }
+}

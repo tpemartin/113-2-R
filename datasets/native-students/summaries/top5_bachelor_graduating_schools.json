@@ -1,0 +1,27 @@
+{
+  "title": "Top 5 Schools by Bachelor's Graduates",
+  "description": "Identify the top 5 schools with the most Aboriginal bachelor's graduates.",
+  "variables": ["graduates_last_year_bachelor", "school_name"],
+  "summary": [
+    {
+      "school_name": "Tajen University",
+      "graduates_last_year_bachelor": 162
+    },
+    {
+      "school_name": "Mei He University of Science and Technology",
+      "graduates_last_year_bachelor": 147
+    },
+    {
+      "school_name": "National Dong Hwa University",
+      "graduates_last_year_bachelor": 121
+    },
+    {
+      "school_name": "National Open University",
+      "graduates_last_year_bachelor": 110
+    },
+    {
+      "school_name": "National Taitung University",
+      "graduates_last_year_bachelor": 89
+    }
+  ]
+}

@@ -15,9 +15,10 @@ flowchart TD
 ## Codebook structure
 
   - Dataset description
+  - Data source
   - Dimension: observations x variables
   - Variable description(Names, classes, descriptions)  
-  - Single variable summaries
+  - (Single) Variable summary
   
 ***
 

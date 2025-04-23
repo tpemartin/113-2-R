@@ -1,0 +1,27 @@
+{
+  "title": "Average Graduate Output by Program Level",
+  "description": "Compare average graduate counts across different program levels to assess program popularity.",
+  "variables": ["graduates_last_year_phd", "graduates_last_year_master", "graduates_last_year_bachelor", "graduates_last_year_junior_college", "graduates_last_year_five_year_college"],
+  "summary": [
+    {
+      "program_level": "phd",
+      "avg_graduates": 0.1203
+    },
+    {
+      "program_level": "master",
+      "avg_graduates": 2.7785
+    },
+    {
+      "program_level": "bachelor",
+      "avg_graduates": 24.8481
+    },
+    {
+      "program_level": "junior_college",
+      "avg_graduates": 1.6392
+    },
+    {
+      "program_level": "five_year_college",
+      "avg_graduates": 3.1203
+    }
+  ]
+}

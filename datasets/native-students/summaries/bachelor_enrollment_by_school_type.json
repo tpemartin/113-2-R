@@ -1,0 +1,25 @@
+{
+  "title": "Bachelor's Enrollment by School Type",
+  "description": "Explore how Aboriginal students enrolled in bachelor's programs are distributed across different school types.",
+  "variables": ["enrollment_bachelor", "school_type"],
+  "summary": [
+    {
+      "school_type": "Higher Education Institutions",
+      "avg_enrollment_bachelor": 127.0135,
+      "sd_enrollment_bachelor": 117.8755,
+      "total_enrollment_bachelor": 18798
+    },
+    {
+      "school_type": "Open University and Continuing Education Schools",
+      "avg_enrollment_bachelor": 197,
+      "sd_enrollment_bachelor": 333.7754,
+      "total_enrollment_bachelor": 985
+    },
+    {
+      "school_type": "Theological Seminaries",
+      "avg_enrollment_bachelor": 1.6,
+      "sd_enrollment_bachelor": 3.5777,
+      "total_enrollment_bachelor": 8
+    }
+  ]
+}

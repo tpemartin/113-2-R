@@ -1,0 +1,159 @@
+academic_year,school_type,school_code,school_name,enrollment_phd,enrollment_master,enrollment_bachelor,enrollment_junior_college,enrollment_five_year_college,graduates_last_year_phd,graduates_last_year_master,graduates_last_year_bachelor,graduates_last_year_junior_college,graduates_last_year_five_year_college,school_name_chinese,school_type_chinese
+112,Higher Education Institutions,0001,National Chengchi University,5,49,154,0,0,1,11,27,0,0,國立政治大學,大專校院
+112,Higher Education Institutions,0002,National Tsing Hua University,12,67,78,0,0,1,15,13,0,0,國立清華大學,大專校院
+112,Higher Education Institutions,0003,National Taiwan University,12,43,270,0,0,2,14,56,0,0,國立臺灣大學,大專校院
+112,Higher Education Institutions,0004,National Taiwan Normal University,19,70,196,0,0,0,6,46,0,0,國立臺灣師範大學,大專校院
+112,Higher Education Institutions,0005,National Cheng Kung University,8,35,170,0,0,1,12,21,0,0,國立成功大學,大專校院
+112,Higher Education Institutions,0006,National Chung Hsing University,3,7,154,0,0,1,3,22,0,0,國立中興大學,大專校院
+112,Higher Education Institutions,0007,National Yang Ming Chiao Tung University,11,25,72,0,0,1,6,13,0,0,國立陽明交通大學,大專校院
+112,Higher Education Institutions,0008,National Central University,2,21,58,0,0,0,7,8,0,0,國立中央大學,大專校院
+112,Higher Education Institutions,0009,National Sun Yat-sen University,0,42,36,0,0,0,5,8,0,0,國立中山大學,大專校院
+112,Higher Education Institutions,0012,National Taiwan Ocean University,4,13,110,0,0,0,0,13,0,0,國立臺灣海洋大學,大專校院
+112,Higher Education Institutions,0013,National Chung Cheng University,4,29,99,0,0,0,9,15,0,0,國立中正大學,大專校院
+112,Higher Education Institutions,0014,National Kaohsiung Normal University,11,79,478,0,0,1,8,38,0,0,國立高雄師範大學,大專校院
+112,Higher Education Institutions,0015,National Changhua University of Education,1,31,149,0,0,0,3,15,0,0,國立彰化師範大學,大專校院
+112,Higher Education Institutions,0017,National Taipei University,1,15,141,0,0,0,1,23,0,0,國立臺北大學,大專校院
+112,Higher Education Institutions,0018,National Chiayi University,1,32,153,0,0,0,9,32,0,0,國立嘉義大學,大專校院
+112,Higher Education Institutions,0019,National Kaohsiung University,0,6,100,0,0,0,0,28,0,0,國立高雄大學,大專校院
+112,Higher Education Institutions,0020,National Dong Hwa University,31,222,609,0,0,2,24,121,0,0,國立東華大學,大專校院
+112,Higher Education Institutions,0021,National Chi Nan University,9,41,254,0,0,1,6,52,0,0,國立暨南國際大學,大專校院
+112,Higher Education Institutions,0022,National Taiwan University of Science and Technology,5,24,88,0,0,2,8,19,0,0,國立臺灣科技大學,大專校院
+112,Higher Education Institutions,0023,National Yunlin University of Science and Technology,2,14,99,0,0,0,3,16,0,0,國立雲林科技大學,大專校院
+112,Higher Education Institutions,0024,National Pingtung University of Science and Technology,4,34,170,0,0,0,6,26,0,0,國立屏東科技大學,大專校院
+112,Higher Education Institutions,0025,National Taipei University of Technology,2,16,89,0,5,0,7,12,0,1,國立臺北科技大學,大專校院
+112,Higher Education Institutions,0028,National Taipei University of the Arts,3,20,54,0,0,0,7,6,0,0,國立臺北藝術大學,大專校院
+112,Higher Education Institutions,0029,National Taichung University of Education,1,15,113,0,0,0,1,19,0,0,國立臺灣藝術大學,大專校院
+112,Higher Education Institutions,0030,National Taitung University,6,159,554,0,0,0,27,89,0,0,國立臺東大學,大專校院
+112,Higher Education Institutions,0031,National Ilan University,1,19,172,0,0,0,2,27,0,0,國立宜蘭大學,大專校院
+112,Higher Education Institutions,0032,National United University,0,3,112,0,0,0,1,12,0,0,國立聯合大學,大專校院
+112,Higher Education Institutions,0033,National Formosa University,0,3,133,0,2,0,1,15,0,0,國立虎尾科技大學,大專校院
+112,Higher Education Institutions,0035,National Tainan University of the Arts,2,10,42,0,0,0,1,2,0,0,國立臺南藝術大學,大專校院
+112,Higher Education Institutions,0036,National Tainan University,2,10,72,0,0,0,4,13,0,0,國立臺南大學,大專校院
+112,Higher Education Institutions,0037,National Taipei University of Education,4,46,114,0,0,0,7,25,0,0,國立臺北教育大學,大專校院
+112,Higher Education Institutions,0039,National Taichung University of Education,5,105,78,0,0,0,23,18,0,0,國立臺中教育大學,大專校院
+112,Higher Education Institutions,0042,National Penghu University of Science and Technology,0,1,16,0,0,0,0,4,0,1,國立澎湖科技大學,大專校院
+112,Higher Education Institutions,0043,National Kaohsiung University of Science and Technology,0,0,105,5,0,0,4,19,1,0,國立勤益科技大學,大專校院
+112,Higher Education Institutions,0044,National Taiwan Sport University,2,29,427,0,0,0,2,40,0,0,國立體育大學,大專校院
+112,Higher Education Institutions,0046,National Taipei University of Nursing and Health Sciences,0,15,99,0,0,0,0,28,0,0,國立臺北護理健康大學,大專校院
+112,Higher Education Institutions,0047,National Kaohsiung University of Hospitality and Tourism,0,0,81,0,10,0,0,27,0,0,國立高雄餐旅大學,大專校院
+112,Higher Education Institutions,0048,National Kinmen University,0,2,65,0,0,0,0,12,0,0,國立金門大學,大專校院
+112,Higher Education Institutions,0049,National Taiwan University of Sport,2,28,212,0,0,0,3,33,0,0,國立臺灣體育運動大學,大專校院
+112,Higher Education Institutions,0050,National Taichung University of Science and Technology,0,6,216,13,67,0,4,42,6,7,國立臺中科技大學,大專校院
+112,Higher Education Institutions,0051,National Taipei University of Business,0,0,95,5,23,0,1,20,3,3,國立臺北商業大學,大專校院
+112,Higher Education Institutions,0052,National Pingtung University,6,107,362,0,0,0,8,43,0,0,國立屏東大學,大專校院
+112,Higher Education Institutions,0053,National Kaohsiung University of Science and Technology,0,3,191,0,15,0,1,39,0,1,國立高雄科技大學,大專校院
+112,Higher Education Institutions,0144,National Taiwan University of Arts,0,0,10,0,0,0,0,2,0,0,國立臺灣戲曲學院,大專校院
+112,Higher Education Institutions,0221,National Tainan Nursing School,0,0,0,2,148,0,0,0,0,7,國立臺南護理專科學校,大專校院
+112,Higher Education Institutions,0222,National Taitung Vocational College,0,0,0,48,43,0,0,0,10,7,國立臺東專科學校,大專校院
+112,Higher Education Institutions,1001,Tunghai University,1,11,118,0,0,0,1,13,0,0,東海大學,大專校院
+112,Higher Education Institutions,1002,Fu Jen Catholic University,3,107,351,0,0,0,14,63,0,0,輔仁大學,大專校院
+112,Higher Education Institutions,1003,Soochow University,0,0,115,0,0,0,0,17,0,0,東吳大學,大專校院
+112,Higher Education Institutions,1004,Chung Yuan Christian University,2,21,174,0,0,0,6,24,0,0,中原大學,大專校院
+112,Higher Education Institutions,1005,Tamkang University,0,2,226,0,0,0,0,39,0,0,淡江大學,大專校院
+112,Higher Education Institutions,1006,Chinese Culture University,0,9,309,0,0,0,2,43,0,0,中國文化大學,大專校院
+112,Higher Education Institutions,1007,Feng Chia University,0,14,130,0,0,0,3,15,0,0,逢甲大學,大專校院
+112,Higher Education Institutions,1008,Providence University,8,69,183,0,0,0,10,26,0,0,靜宜大學,大專校院
+112,Higher Education Institutions,1009,Chang Gung University,6,10,32,0,0,0,4,3,0,0,長庚大學,大專校院
+112,Higher Education Institutions,1010,Yuan Ze University,2,4,61,0,0,0,0,3,0,0,元智大學,大專校院
+112,Higher Education Institutions,1011,Chung Hua University,1,2,32,0,0,0,0,7,0,0,中華大學,大專校院
+112,Higher Education Institutions,1012,Da-Yeh University,3,26,36,0,0,0,2,4,0,0,大葉大學,大專校院
+112,Higher Education Institutions,1013,Hwa Hsia University,0,3,3,0,0,0,2,2,0,0,華梵大學,大專校院
+112,Higher Education Institutions,1014,I-Shou University,1,15,388,0,0,1,2,86,0,0,義守大學,大專校院
+112,Higher Education Institutions,1015,Shih Hsin University,3,14,271,0,0,1,2,57,0,0,世新大學,大專校院
+112,Higher Education Institutions,1016,Ming Chuan University,0,13,208,0,0,0,3,48,0,0,銘傳大學,大專校院
+112,Higher Education Institutions,1017,Shih Chien University,0,3,194,0,0,0,0,42,0,0,實踐大學,大專校院
+112,Higher Education Institutions,1018,Chaoyang University of Technology,1,7,154,0,0,2,2,32,0,0,朝陽科技大學,大專校院
+112,Higher Education Institutions,1019,Kaohsiung Medical University,0,13,92,0,0,0,2,17,0,0,高雄醫學大學,大專校院
+112,Higher Education Institutions,1020,Nanhua University,0,15,72,0,0,0,5,10,0,0,南華大學,大專校院
+112,Higher Education Institutions,1021,Aletheia University,0,0,47,0,0,0,1,17,0,0,真理大學,大專校院
+112,Higher Education Institutions,1022,Tatung University,1,1,16,0,0,0,0,5,0,0,大同大學,大專校院
+112,Higher Education Institutions,1023,Southern Taiwan University of Science and Technology,0,5,173,0,3,0,0,32,0,0,南臺科技大學,大專校院
+112,Higher Education Institutions,1024,Kun Shan University,0,5,130,0,0,0,1,12,0,0,崑山科技大學,大專校院
+112,Higher Education Institutions,1025,Chia Nan University of Pharmacy and Science,0,3,174,0,2,0,2,31,0,0,嘉南藥理大學,大專校院
+112,Higher Education Institutions,1026,Shu-Te University,0,11,263,3,0,0,4,40,3,0,樹德科技大學,大專校院
+112,Higher Education Institutions,1027,Tzu Chi University,5,41,80,0,0,0,1,26,0,0,慈濟大學,大專校院
+112,Higher Education Institutions,1028,Taipei Medical University,0,0,57,0,0,0,0,9,0,0,臺北醫學大學,大專校院
+112,Higher Education Institutions,1029,Chung Shan Medical University,0,16,145,0,0,0,1,34,0,0,中山醫學大學,大專校院
+112,Higher Education Institutions,1030,Lung Hwa University of Science and Technology,0,3,135,0,6,0,0,23,0,0,龍華科技大學,大專校院
+112,Higher Education Institutions,1031,Fu Ying University of Science and Technology,0,4,145,0,134,0,0,42,0,20,輔英科技大學,大專校院
+112,Higher Education Institutions,1032,Ming Hsin University of Science and Technology,0,31,264,5,0,0,4,34,2,0,明新科技大學,大專校院
+112,Higher Education Institutions,1033,ChEng Kung University,1,12,79,0,0,1,0,23,0,0,長榮大學,大專校院
+112,Higher Education Institutions,1034,Hungkuang University,2,10,170,3,16,0,0,36,1,4,弘光科技大學,大專校院
+112,Higher Education Institutions,1035,China Medical University,2,10,231,0,0,0,5,15,0,0,中國醫藥大學,大專校院
+112,Higher Education Institutions,1036,Chien Hsin University of Science and Technology,0,10,283,0,0,0,3,57,0,0,健行科技大學,大專校院
+112,Higher Education Institutions,1037,Cheng Shiu University,0,9,304,30,7,0,3,77,5,0,正修科技大學,大專校院
+112,Higher Education Institutions,1038,Wannee University of Science and Technology,0,10,374,0,0,0,4,62,1,0,萬能科技大學,大專校院
+112,Higher Education Institutions,1039,Hsiuan Chuang University,0,7,38,0,0,0,2,4,0,0,玄奘大學,大專校院
+112,Higher Education Institutions,1040,Chienkuo Technology University,0,1,39,3,0,0,1,5,0,0,建國科技大學,大專校院
+112,Higher Education Institutions,1041,Ming Chi University of Technology,0,2,42,0,0,0,0,8,0,0,明志科技大學,大專校院
+112,Higher Education Institutions,1042,Kaohsiung University of Applied Sciences,0,0,43,2,0,0,0,11,0,0,高苑科技大學,大專校院
+112,Higher Education Institutions,1043,Tajen University,0,15,429,11,0,0,7,162,9,0,大仁科技大學,大專校院
+112,Higher Education Institutions,1044,St. John's University,0,0,21,1,4,0,1,12,0,1,聖約翰科技大學,大專校院
+112,Higher Education Institutions,1045,Ling Tung University,0,7,209,0,0,0,1,23,0,0,嶺東科技大學,大專校院
+112,Higher Education Institutions,1046,National Taiwan University of Science and Technology,0,5,94,8,0,0,0,24,0,0,中國科技大學,大專校院
+112,Higher Education Institutions,1047,National Central University of Science and Technology,0,6,146,0,0,0,1,29,0,0,中臺科技大學,大專校院
+112,Higher Education Institutions,1048,Asia University,3,39,137,0,0,1,2,26,0,0,亞洲大學,大專校院
+112,Higher Education Institutions,1049,Kainan University,0,31,189,0,0,0,13,37,0,0,開南大學,大專校院
+112,Higher Education Institutions,1050,Fo Guang University,3,13,39,0,0,0,5,7,0,0,佛光大學,大專校院
+112,Higher Education Institutions,1051,Tainan University of Applied Science,0,3,164,0,19,0,0,34,0,0,台南應用科技大學,大專校院
+112,Higher Education Institutions,1052,Far East University,0,3,57,5,0,0,0,31,0,0,遠東科技大學,大專校院
+112,Higher Education Institutions,1053,Yuanpei University of Medical Technology,0,4,76,0,0,0,1,34,0,0,元培醫事科技大學,大專校院
+112,Higher Education Institutions,1054,Jing Wen University of Science and Technology,0,0,103,2,0,0,0,26,2,0,景文科技大學,大專校院
+112,Higher Education Institutions,1055,Chung Hua University of Medical Technology,0,1,78,1,58,0,0,14,0,6,中華醫事科技大學,大專校院
+112,Higher Education Institutions,1056,Southeast University of Technology,0,12,93,0,0,0,0,16,0,0,東南科技大學,大專校院
+112,Higher Education Institutions,1057,Tama Dean University of Financial Management,0,1,72,0,0,0,0,10,0,0,德明財經科技大學,大專校院
+112,Higher Education Institutions,1058,Ming Dao University,0,1,10,0,0,0,0,3,0,0,明道大學,大專校院
+112,Higher Education Institutions,1060,Nankai University of Technology,0,15,59,2,2,0,1,19,0,0,南開科技大學,大專校院
+112,Higher Education Institutions,1061,Chung Hua University of Technology,0,6,69,10,0,0,2,22,1,0,中華科技大學,大專校院
+112,Higher Education Institutions,1062,Chiao Kwang University of Technology,0,3,130,0,0,0,0,21,0,0,僑光科技大學,大專校院
+112,Higher Education Institutions,1063,Yu Da University of Science and Technology,0,10,93,0,0,0,0,21,0,0,育達科技大學,大專校院
+112,Higher Education Institutions,1064,Mei He University of Science and Technology,0,46,448,13,197,0,4,147,9,24,美和科技大學,大專校院
+112,Higher Education Institutions,1065,Wu Feng University of Technology,0,2,62,5,0,0,0,16,5,0,吳鳳科技大學,大專校院
+112,Higher Education Institutions,1066,Huanqiu University of Science and Technology,0,23,20,3,0,0,14,36,4,0,環球科技大學,大專校院
+112,Higher Education Institutions,1067,Taiwan Shoufu University,0,0,0,0,0,0,0,3,0,0,台灣首府大學,大專校院
+112,Higher Education Institutions,1068,Chung Chou University of Science and Technology,0,0,0,0,0,0,0,7,0,0,中州科技大學,大專校院
+112,Higher Education Institutions,1069,Hsiao Ping University of Science and Technology,0,4,59,0,0,0,0,13,0,0,修平科技大學,大專校院
+112,Higher Education Institutions,1070,Chang Gung University of Science and Technology,0,3,121,0,0,0,1,38,0,0,長庚科技大學,大專校院
+112,Higher Education Institutions,1071,Taipei City University of Science and Technology,0,3,245,9,18,0,1,37,4,1,臺北城市科技大學,大專校院
+112,Higher Education Institutions,1072,Min Shih University of Science and Technology,0,0,22,0,2,0,0,6,0,0,敏實科技大學,大專校院
+112,Higher Education Institutions,1073,Hsing Wu University of Science and Technology,0,22,204,2,3,0,1,51,1,0,醒吾科技大學,大專校院
+112,Higher Education Institutions,1075,Wenzao Ursuline University of Languages,0,6,68,0,41,0,0,16,0,4,文藻外語大學,大專校院
+112,Higher Education Institutions,1076,Hua Hsia University of Science and Technology,0,1,24,0,1,0,1,12,0,0,華夏科技大學,大專校院
+112,Higher Education Institutions,1077,Tzu Chi University of Science and Technology,0,18,232,0,518,0,1,82,1,68,慈濟科技大學,大專校院
+112,Higher Education Institutions,1078,Chih Lee University of Science and Technology,0,3,143,0,18,0,0,27,0,0,致理科技大學,大專校院
+112,Higher Education Institutions,1079,Kang Ning University,0,0,3,4,50,0,0,2,2,7,康寧大學,大專校院
+112,Higher Education Institutions,1080,Hungkuang University of Technology,0,0,50,0,18,0,0,14,0,1,宏國德霖科技大學,大專校院
+112,Higher Education Institutions,1081,Oriental Institute of Technology,0,1,5,2,4,0,2,11,1,1,東方設計大學,大專校院
+112,Higher Education Institutions,1082,Chung Yu University of Science and Technology,0,2,239,0,0,0,0,67,0,0,崇右影藝科技大學,大專校院
+112,Higher Education Institutions,1083,Taipei Ocean University of Technology,0,1,106,6,17,0,1,22,6,1,台北海洋科技大學,大專校院
+112,Higher Education Institutions,1084,Aydong University of Science and Technology,0,0,66,0,0,0,0,7,0,0,亞東科技大學,大專校院
+112,Higher Education Institutions,1125,Chinatrust Commercial Bank Institute of Financial Management,0,0,52,0,0,0,1,3,0,0,中信金融管理學院,大專校院
+112,Higher Education Institutions,1148,Dahan Institute of Technology,0,31,191,22,0,0,7,69,17,0,大漢技術學院,大專校院
+112,Higher Education Institutions,1159,He Chun Institute of Technology,0,0,0,0,0,0,0,2,0,0,和春技術學院,大專校院
+112,Higher Education Institutions,1168,Nanya Institute of Technology,0,0,121,0,5,0,0,35,0,0,南亞技術學院,大專校院
+112,Higher Education Institutions,1183,Limin Institute of Technology,0,2,205,0,5,0,0,24,0,0,黎明技術學院,大專校院
+112,Higher Education Institutions,1185,Deyu Health Care College,0,0,62,4,37,0,0,26,3,4,德育護理健康學院,大專校院
+112,Higher Education Institutions,1188,Tatung Institute of Technology,0,0,6,0,0,0,0,7,1,0,大同技術學院,大專校院
+112,Higher Education Institutions,1195,Mackay Medical College,0,4,24,0,0,0,0,3,0,0,馬偕醫學院,大專校院
+112,Higher Education Institutions,1196,Dharma Drum University,0,1,1,0,0,0,0,0,0,0,法鼓文理學院,大專校院
+112,Higher Education Institutions,1282,Mackay Nursing College,0,0,0,3,268,0,0,0,0,39,馬偕醫護管理專科學校,大專校院
+112,Higher Education Institutions,1283,Jende College of Nursing and Health Management,0,0,0,11,194,0,0,0,8,31,仁德醫護管理專科學校,大專校院
+112,Higher Education Institutions,1284,Shuren Medical Care Management School,0,0,0,7,264,0,0,0,6,32,樹人醫護管理專科學校,大專校院
+112,Higher Education Institutions,1285,Tzu-Hui Nursing Management College,0,0,0,20,275,0,0,0,12,50,慈惠醫護管理專科學校,大專校院
+112,Higher Education Institutions,1286,Geng Shin Health Care Management Institute,0,0,0,5,141,0,0,0,2,31,耕莘健康管理專科學校,大專校院
+112,Higher Education Institutions,1287,Min Hui Nursing Management College,0,0,0,3,59,0,0,0,0,8,敏惠醫護管理專科學校,大專校院
+112,Higher Education Institutions,1289,Yuying Medical and Nursing Management School,0,0,0,0,64,0,0,0,0,5,育英醫護管理專科學校,大專校院
+112,Higher Education Institutions,1291,Saint Mary College of Nursing Management,0,0,0,2,192,0,0,0,0,41,聖母醫護管理專科學校,大專校院
+112,Higher Education Institutions,1292,Hsing Sheng Medical Care Management School,0,0,0,15,655,0,0,0,7,87,新生醫護管理專科學校,大專校院
+112,Higher Education Institutions,1293,Chung Jen Medical Management School,0,0,0,0,46,0,0,0,0,0,崇仁醫護管理專科學校,大專校院
+112,Higher Education Institutions,3002,Taipei City University,1,50,320,0,0,0,11,51,0,0,臺北市立大學,大專校院
+112,Theological Seminaries,1R02,Baptist Theological Seminary in Taiwan,0,2,0,0,0,0,2,0,0,0,基督教台灣浸會神學院,宗教研修學院
+112,Theological Seminaries,1R03,Taipei Christian College,0,0,8,0,0,0,0,3,0,0,臺北基督學院,宗教研修學院
+112,Theological Seminaries,1R05,Taiwan Theological Research Institute,0,23,0,0,0,0,4,0,0,0,台灣神學研究學院,宗教研修學院
+112,Theological Seminaries,1R07,Southern Presbyterian Theological Seminary,0,3,0,0,0,0,2,0,0,0,台灣基督長老教會南神神學院,宗教研修學院
+112,Theological Seminaries,1R08,Academy of Evangelical Theology,0,2,0,0,0,0,0,0,0,0,中華福音神學研究學院,宗教研修學院
+112,Open University and Continuing Education Schools,0A01,National Open University,0,0,790,317,0,0,0,110,83,0,國立空中大學,空大及進修學校
+112,Open University and Continuing Education Schools,0A13,National Kaohsiung University of Science and Technology Continuing Education College,0,0,6,0,0,0,0,2,0,0,國立高雄科技大學附設進修學院,空大及進修學校
+112,Open University and Continuing Education Schools,0A17,National Taipei University of Business Continuing Education College,0,0,42,51,0,0,0,49,39,0,國立臺北商業大學附設空中進修學院,空大及進修學校
+112,Open University and Continuing Education Schools,0A18,National Taichung University of Science and Technology Continuing Education College,0,0,35,17,0,0,0,11,4,0,國立臺中科技大學附設空中進修學院,空大及進修學校
+112,Open University and Continuing Education Schools,3A01,Kaohsiung City University of Open Learning,0,0,112,0,0,0,0,33,0,0,高雄市立空中大學,空大及進修學校

@@ -1,0 +1,82 @@
+{
+  "title": "Top 5 Schools by Bachelor's Enrollment within Each School Type",
+  "description": "Shows the top 5 institutions with the highest Aboriginal bachelor's enrollment, grouped by school type.",
+  "variables": ["school_type", "school_name", "enrollment_bachelor"],
+  "summary": [
+    {
+      "school_type": "Higher Education Institutions",
+      "school_name": "National Dong Hwa University",
+      "enrollment_bachelor": 609
+    },
+    {
+      "school_type": "Higher Education Institutions",
+      "school_name": "National Taitung University",
+      "enrollment_bachelor": 554
+    },
+    {
+      "school_type": "Higher Education Institutions",
+      "school_name": "National Kaohsiung Normal University",
+      "enrollment_bachelor": 478
+    },
+    {
+      "school_type": "Higher Education Institutions",
+      "school_name": "Mei He University of Science and Technology",
+      "enrollment_bachelor": 448
+    },
+    {
+      "school_type": "Higher Education Institutions",
+      "school_name": "Tajen University",
+      "enrollment_bachelor": 429
+    },
+    {
+      "school_type": "Open University and Continuing Education Schools",
+      "school_name": "National Open University",
+      "enrollment_bachelor": 790
+    },
+    {
+      "school_type": "Open University and Continuing Education Schools",
+      "school_name": "Kaohsiung City University of Open Learning",
+      "enrollment_bachelor": 112
+    },
+    {
+      "school_type": "Open University and Continuing Education Schools",
+      "school_name": "National Taipei University of Business Continuing Education College",
+      "enrollment_bachelor": 42
+    },
+    {
+      "school_type": "Open University and Continuing Education Schools",
+      "school_name": "National Taichung University of Science and Technology Continuing Education College",
+      "enrollment_bachelor": 35
+    },
+    {
+      "school_type": "Open University and Continuing Education Schools",
+      "school_name": "National Kaohsiung University of Science and Technology Continuing Education College",
+      "enrollment_bachelor": 6
+    },
+    {
+      "school_type": "Theological Seminaries",
+      "school_name": "Taipei Christian College",
+      "enrollment_bachelor": 8
+    },
+    {
+      "school_type": "Theological Seminaries",
+      "school_name": "Baptist Theological Seminary in Taiwan",
+      "enrollment_bachelor": 0
+    },
+    {
+      "school_type": "Theological Seminaries",
+      "school_name": "Taiwan Theological Research Institute",
+      "enrollment_bachelor": 0
+    },
+    {
+      "school_type": "Theological Seminaries",
+      "school_name": "Southern Presbyterian Theological Seminary",
+      "enrollment_bachelor": 0
+    },
+    {
+      "school_type": "Theological Seminaries",
+      "school_name": "Academy of Evangelical Theology",
+      "enrollment_bachelor": 0
+    }
+  ]
+}
