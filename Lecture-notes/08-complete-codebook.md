@@ -38,6 +38,11 @@ Attach the codebook file to ChatGPT and ask it to generate a data introduction r
 
 > Prompt: Generate a data introduction report **in paragraphs** as the data introduction section of an Economic Journal article.
 
-## Example 
+## Example: Aboriginal Students Dataset 
 
   - <https://chatgpt.com/share/68088d35-4828-8006-a617-2d2d01373e1f>
+
+## Example: Dow Jones Dataset
+
+  - source: <https://www.kaggle.com/datasets/nikitamanaenkov/stock-portfolio-data-with-prices-and-indices>  
+  - data: <https://github.com/tpemartin/113-2-R/tree/main/datasets/stocks/Dow_Jones>  
