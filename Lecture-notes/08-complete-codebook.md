@@ -1,16 +1,20 @@
 # Complete codebook
 
-
 ```mermaid
 flowchart TD
-  A["`Import data`"]--> B["`Decide variable class`"]
-  B --> C["`Parse variable values`"] 
-  C --> D["`Summarize each variable`"]
-  D --> E["`Complete codebook`"]:::pink
-  E --> F["`Generate data introduction report`"]
+  subgraph Codebook Creation
+    A["`Data`"] -->|AI| B["`Codebook`"]
+  end
 
-  classDef pink fill:#ffcccc;
+  subgraph Codebook Completion
+    C["`Data/Codebook`"] -->|AI| D["`Import and parse`"]
+    D -->|AI| E["`Single variable summary JSON`"]
+    E -->|AI| F["`Variable summary writing`"]
+    F --> G["`Complete codebook`"]
+  end
+  B -.-> C
 ```
+
 
 ## Codebook structure
 
@@ -22,7 +26,8 @@ flowchart TD
   
 ***
 
-> You can turn the list of summaries into **JSON format** and past it into the codebook.
+> You can turn the list of summaries into **JSON format** and past it into the codebook. 
+> Or ask AI to generate summary in text (then paste it to the codebook) based on the Json file.
 
 
 ## Generate data introduction
