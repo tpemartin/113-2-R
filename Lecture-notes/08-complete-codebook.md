@@ -38,3 +38,6 @@ Attach the codebook file to ChatGPT and ask it to generate a data introduction r
 
 > Prompt: Generate a data introduction report **in paragraphs** as the data introduction section of an Economic Journal article.
 
+## Example 
+
+  - <https://chatgpt.com/share/68088d35-4828-8006-a617-2d2d01373e1f>

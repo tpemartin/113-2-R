@@ -6,7 +6,7 @@ Make sure you have the following elements:
   - A complete codebook.
   - Import and parsing code for the data set. 
 
-Once you have these three, you can work on the data set analysis with AI being your great assistant.
+Once you have these three, you can work on  the data set analysis with AI tuned to be an expert of this data set.
 
 ## Flowchart
 
@@ -29,3 +29,7 @@ graph TD
 
     classDef pink fill:#FFC0CB,stroke:#000,stroke-width:2px;
 ```
+
+## Example
+
+  - <https://chatgpt.com/share/68088d35-4828-8006-a617-2d2d01373e1f>
