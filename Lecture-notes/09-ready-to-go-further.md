@@ -32,4 +32,18 @@ graph TD
 
 ## Example
 
+  - [csv data](../datasets/native-students/112native_A1-1_english.csv)
+  - [codebook](../datasets/native-students/codebook.md)  
+  - [import parsing script](../datasets/native-students/import-parsing.R)
+
+### AI preset
+
+Run import and parsing code in POSIT, and start your chat as the following structure:
+
+<img src="../img/data-explore-preset.png" alt="data explore preset" width="450"/>
+
+### ChatGPT
+
+
+
   - <https://chatgpt.com/share/68088d35-4828-8006-a617-2d2d01373e1f>
