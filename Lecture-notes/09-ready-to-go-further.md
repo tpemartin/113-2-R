@@ -30,6 +30,10 @@ graph TD
     classDef pink fill:#FFC0CB,stroke:#000,stroke-width:2px;
 ```
 
+> Summary data should be exported as a **JSON file** with proper structure to understand the results.
+
+  - [What is JSON?](https://www.w3schools.com/js/js_json.asp)
+
 ## Example
 
   - [csv data](../datasets/native-students/112native_A1-1_english.csv)
