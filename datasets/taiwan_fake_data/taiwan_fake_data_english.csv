@@ -1,0 +1,101 @@
+taiwan_year,month,day,gender,education,income,region,purchase
+104,1,26,Female,PhD,115644,South,0
+108,6,7,Male,High School,74474,Central,0
+103,3,25,Male,University,119767,South,1
+92,8,23,Male,University,51409,South,0
+99,3,26,Male,University,22607,North,1
+107,8,20,Male,Middle School,55360,North,1
+111,1,24,Male,Middle School,104129,Off-Island,1
+100,7,25,Female,University,96351,North,0
+94,11,9,Male,Graduate School,113625,Off-Island,1
+109,7,9,Female,Graduate School,21516,North,1
+103,7,5,Male,PhD,41927,Central,1
+111,10,23,Female,High School,55810,North,1
+94,6,14,Female,High School,32181,South,0
+108,7,14,Female,Graduate School,117440,South,1
+98,11,6,Female,High School,85983,East,0
+92,10,27,Female,Middle School,47437,Central,0
+97,5,1,Male,Graduate School,75524,East,1
+96,6,26,Female,University,112858,South,1
+99,8,10,Male,Middle School,62424,North,0
+98,5,17,Male,PhD,31286,South,0
+108,7,26,Male,University,41127,East,0
+93,11,17,Male,Graduate School,85022,Central,0
+103,4,26,Male,High School,23235,Off-Island,0
+106,12,27,Male,PhD,41058,Central,0
+100,12,21,Male,PhD,72128,North,0
+96,3,7,Male,High School,103739,Central,1
+110,9,28,Male,High School,95984,South,1
+101,7,21,Female,High School,56532,South,0
+104,6,26,Female,Middle School,117929,Central,0
+99,10,9,Male,University,22405,Central,1
+102,9,20,Male,Graduate School,53671,East,0
+96,7,6,Male,University,57711,Off-Island,0
+98,2,18,Female,University,95085,Central,0
+98,3,17,Female,University,64295,South,1
+99,8,5,Male,Graduate School,28392,North,0
+112,4,25,Female,Graduate School,107264,Off-Island,1
+110,7,20,Male,University,61639,South,1
+96,4,3,Female,Graduate School,102496,Central,1
+110,1,25,Male,High School,21014,North,1
+95,8,14,Female,University,73196,East,1
+91,4,1,Male,Graduate School,33331,East,1
+94,9,2,Male,High School,104091,South,1
+97,8,4,Male,Middle School,99916,North,0
+101,6,10,Female,University,26796,Central,1
+102,11,1,Female,Graduate School,109225,South,0
+107,4,5,Male,Middle School,116382,North,0
+90,8,21,Female,Middle School,27947,North,1
+95,3,25,Female,Graduate School,102758,Central,1
+110,4,8,Female,Graduate School,52014,Central,0
+104,4,23,Female,PhD,69072,East,1
+98,12,25,Female,Middle School,23238,South,0
+104,6,21,Female,Graduate School,43806,Central,0
+105,1,13,Male,PhD,70809,Central,1
+109,10,18,Female,University,39333,Off-Island,1
+95,11,10,Female,High School,58659,North,0
+100,4,6,Female,PhD,68706,South,1
+97,11,7,Male,Graduate School,115103,Central,0
+111,9,9,Female,Graduate School,42253,Central,1
+111,7,16,Female,Middle School,20269,East,0
+96,8,17,Male,University,115877,East,0
+105,5,21,Female,University,63680,East,1
+106,2,13,Female,University,104498,Off-Island,1
+111,11,28,Male,PhD,83073,Off-Island,1
+107,6,21,Female,High School,60155,East,1
+106,9,8,Male,PhD,101017,East,1
+91,8,21,Male,High School,41380,Central,1
+93,12,7,Female,Middle School,53058,Off-Island,1
+102,10,20,Female,Graduate School,82182,Central,1
+94,4,18,Male,High School,24924,Central,1
+111,5,17,Female,High School,47816,East,1
+108,7,1,Male,University,62430,Off-Island,0
+109,1,2,Male,PhD,30308,South,0
+111,8,17,Male,Middle School,118807,South,0
+103,8,2,Female,University,94753,Central,0
+112,10,13,Female,University,20854,Central,0
+92,9,24,Male,High School,27031,North,0
+97,8,17,Male,PhD,64260,South,0
+105,2,3,Male,Middle School,68846,Off-Island,1
+101,5,18,Male,Graduate School,47576,South,1
+103,9,2,Female,Graduate School,102537,Off-Island,1
+92,7,5,Male,Middle School,57070,North,0
+103,7,12,Female,University,73180,Central,0
+96,10,25,Female,Graduate School,21315,East,1
+92,12,13,Female,Graduate School,23334,South,1
+112,10,10,Female,Middle School,63799,Off-Island,0
+111,8,6,Male,PhD,73770,Off-Island,1
+104,6,10,Female,University,85791,Off-Island,0
+110,7,10,Female,Graduate School,76790,East,0
+94,10,6,Male,High School,40567,South,0
+97,11,28,Female,University,45161,South,1
+108,1,16,Female,High School,72978,Central,0
+99,9,16,Male,University,109374,Central,0
+107,3,3,Female,University,42807,Central,0
+99,10,4,Male,Middle School,94530,Central,1
+101,5,27,Female,PhD,76997,Central,1
+91,6,27,Female,Graduate School,83955,South,0
+99,11,3,Female,Graduate School,111040,North,0
+111,11,23,Female,PhD,26089,North,0
+101,9,3,Male,University,46569,North,1
+109,4,16,Male,High School,112750,North,0
