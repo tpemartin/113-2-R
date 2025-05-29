@@ -6,7 +6,8 @@
     "Title",
     "Video link",
     "Summary",
-    "Github final project link"
+    "Github final project link",
+    "Honor code declaration"
   ],
   [
     "2025-05-14T04:08:45.274Z",
@@ -15,6 +16,19 @@
     "test2",
     "https://youtu.be/x6NkyAX3iTU",
     "testing",
-    "https://github.com/DiegoLiu425/113-1-R-final-project"
+    "https://github.com/DiegoLiu425/113-1-R-final-project",
+    ""
+  ],
+  [
+    "2025-05-29T16:00:10.835Z",
+    "(005) 廖子儀",
+    "411373005",
+    "台北市政府預算支用分析：以R語言進行資料視覺化探勘",
+    "https://youtu.be/oO00ipBLVSg",
+    "本次報告以台北市政府「各機關年度預算支用情形（政事別）」資料為分析對象，透過 R 語言與 tidyverse 套件進行資料處理與視覺化。從匯入原始CSV檔、重新命名欄位開始，我們建立了支出向量並計算出各項目的總支出與百分比比重，進一步找出預算配置與實際支付之間的差異。\n\n在視覺化分析部分，我們透過 ggplot2 製作條形圖，直觀呈現各政事別項目的支出比例，讓人一眼辨識資源集中與分配現象。資料揭示「教育科學文化」為最大支出項目，而「環境保護」則相對支出最少。此外，我們也辨識出數個「實際分配低於原始預算」的項目，進一步引導對資源調整與政策優先順序的思考。\n\n本研究不僅提升我們對公共預算數據的理解，也實際應用 R 語言在真實世界資料上的解讀與呈現。透過這份報告，我們能夠更有系統地理解政府預算的運作方式，並透過數據驅動的分析觀點，提出更有依據的問題與反思。\n\nThis report analyzes the annual budget expenditure data of the Taipei City Government by policy category. Using R programming and the tidyverse package, we performed data wrangling, transformation, and visualization. Beginning with importing and renaming the dataset, we created a numeric vector for expenditures, calculated the total spending, and determined each category’s share of the overall budget.\n\nWith the help of ggplot2, a bar chart was produced to visualize the distribution of budget spending across various sectors. The data revealed that “Education, Science, and Culture” accounted for the highest expenditure, whereas “Environmental Protection” had the lowest. We also identified several categories where the allocated funds were lower than the initial budget, raising questions about budget adjustments and policy prioritization.\n\nThis project not only enhanced our understanding of public financial data but also demonstrated the practical use of R in real-world data analysis. Through this report, we gained a structured perspective on how government budgeting works and how data can support critical thinking and policy evaluation.",
+    "https://github.com/liaotzuyi/113-2-R-final-project",
+    [
+      "I agree."
+    ]
   ]
 ]
