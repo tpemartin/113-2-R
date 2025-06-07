@@ -140,5 +140,17 @@
     [
       "I agree."
     ]
+  ],
+  [
+    "2025-06-07T10:35:05.785Z",
+    "(055) 葉宗諭",
+    "411079055",
+    "Analysis of Party Voting Preferences and Social Economic Status",
+    "https://vimeo.com/1091411918?share=copy",
+    "Does socioeconomic status affect voting tendency? In this video, I will use ChatGPT to help me generate R code, and observe the votes of the four major political parties in Taiwan, and use a linear regression model to test whether there is a correlation between income and voting tendency. In the end, I found that the median income is related to the vote share of the four major political parties, but the standard deviation of income is only related to the vote share of the New Power Party.",
+    "https://github.com/ericleaf/113-2-R-final-project",
+    [
+      "I agree."
+    ]
   ]
 ]
